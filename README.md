@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
 <h3 align="center">Currently studying applied informatics at BSU, FAMCS</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Frontend**
 
-- 📫 How to reach me: **emilepatch@gmail.com**
+- 📫 How to reach me: **darya4shauch@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
