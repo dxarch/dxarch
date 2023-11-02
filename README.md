@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darya</h1>
 <h3 align="center">Currently studying applied informatics at BSU, FAMCS</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Full-Stack**
 
 - 📫 How to reach me: **darya4shauch@gmail.com**
 
