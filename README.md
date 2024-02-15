@@ -2,8 +2,6 @@
 <h3 align="center">A passionate JS Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxarch" alt="dxarch" /></a> </p>
-
 - 🔭 I’m currently working on **Fitness app**
 
 - 🌱 I’m currently learning **Ant Design, Redux, Node.js**
