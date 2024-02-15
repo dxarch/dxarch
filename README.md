@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darya Shauchonak</h1>
 <h3 align="center">A passionate JS Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif">
+ -->
 - 🔭 I’m currently working on **Fitness app**
 
 - 🌱 I’m currently learning **Ant Design, Redux, Node.js**
