@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darya Shauchonak</h1>
 <h3 align="center">A passionate JS Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Ant Design, Redux, Node.js**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **inspiring projects**
 
